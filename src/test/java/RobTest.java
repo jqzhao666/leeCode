@@ -8,5 +8,6 @@ public class RobTest {
     public void rob() {
         Rob rob = new Rob();
         System.out.println(rob.rob(new int[]{1,2,3,4}));
+
     }
 }
